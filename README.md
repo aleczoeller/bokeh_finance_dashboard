@@ -1,5 +1,4 @@
 # bokeh_finance_dashboard
-Sample dashboard with linked charts and table
 
 File bokeh-finance-dashboard.py runs via bokeh-server on the following page:
 http://bokeh-finance-dashboard.herokuapp.com
@@ -10,8 +9,8 @@ capabilities.
 
 App borrows and extends functionality set up by the following two sources:
 
-    @bryevdv's IMDB movie app:
-    https://github.com/bokeh/bokeh/tree/master/examples/app/movies
+@bryevdv's IMDB movie app:
+https://github.com/bokeh/bokeh/tree/master/examples/app/movies
 
-    @mattpap and @bryevdv's table download app:
-    https://github.com/bokeh/bokeh/tree/master/examples/app/export_csv
+@mattpap and @bryevdv's table download app:
+https://github.com/bokeh/bokeh/tree/master/examples/app/export_csv
